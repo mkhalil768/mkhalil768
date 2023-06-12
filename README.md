@@ -1,4 +1,4 @@
-### Staring as a Software Engineer at JMPC
+### Starting as a Software Engineer at JMPC
 
 <!--
 **mkhalil768/mkhalil768** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
